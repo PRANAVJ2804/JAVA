@@ -33,5 +33,6 @@ public class Main {
                 System.out.println("wrong operation");
         }
         System.out.println("result:"+result);
+        sc.close();
     }
 }
