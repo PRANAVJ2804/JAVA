@@ -1,4 +1,4 @@
-Java Programming Practice 
+Java Programming Practice (Apna College)
 
 Welcome to my Java Programming Practice Repository!
 
